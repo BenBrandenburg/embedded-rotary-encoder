@@ -95,7 +95,11 @@ The project was tested using a Raspberry Pi Pico based quadrature signal generat
 
 ### Demo
 
-See `docs/demo.mp4` for a demonstration of the system running on the ITS Board.
+[Watch demo video](docs/demo.mp4)
+
+## Project Status
+
+Completed university project. The code is uploaded for portfolio and documentation purposes.
 
 ## Author
 
