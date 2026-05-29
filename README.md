@@ -91,7 +91,7 @@ The project was tested using a Raspberry Pi Pico based quadrature signal generat
 
 ### Setup
 
-![Setup](docs/setup.jpg)
+![Setup](docs/setup.jpeg)
 
 ### Demo
 
